@@ -1,1 +1,1 @@
-Life sucks mother fucker
+na waa oo
