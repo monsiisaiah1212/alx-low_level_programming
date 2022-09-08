@@ -1,1 +1,1 @@
-no now
+Your tak weak me o

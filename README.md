@@ -1,1 +1,1 @@
-Now now omor
+turing point
