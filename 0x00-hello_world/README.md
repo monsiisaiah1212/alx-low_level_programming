@@ -1,1 +1,1 @@
-Write a C program that prints exactly
+Life sucks mother fucker
