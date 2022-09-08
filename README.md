@@ -1,1 +1,1 @@
-turing point
+Hello, printf
