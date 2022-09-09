@@ -1,1 +1,1 @@
-ou can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
+Patience, persistence and perspiration make an unbeatable combination for success
