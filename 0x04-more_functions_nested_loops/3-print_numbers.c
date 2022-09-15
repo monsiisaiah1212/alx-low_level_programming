@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * print_numbers - print numbers from 48 to 58
- * @ch: the function integer
- * Return: to 0
+ * print_numbers - print number
 */
+
 void print_numbers(void)
 {
 	int i;
