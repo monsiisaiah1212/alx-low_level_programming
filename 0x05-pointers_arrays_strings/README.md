@@ -1,1 +1,1 @@
-I can only go one way. I've not got a reverse gear
+A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
