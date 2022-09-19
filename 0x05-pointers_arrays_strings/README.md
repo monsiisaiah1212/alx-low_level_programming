@@ -1,1 +1,1 @@
-Winning is only half of it. Having fun is the other half
+Arrays are not pointers
