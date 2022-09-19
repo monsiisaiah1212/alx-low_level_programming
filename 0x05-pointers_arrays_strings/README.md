@@ -1,1 +1,1 @@
-This report, by its very length, defends itself against the risk of being read
+Write a function that prints a string, followed by a new line, to stdout.
