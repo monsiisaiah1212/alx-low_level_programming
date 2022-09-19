@@ -1,1 +1,1 @@
-Write a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest
+Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
