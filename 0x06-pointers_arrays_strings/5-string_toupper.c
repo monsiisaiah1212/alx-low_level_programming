@@ -5,7 +5,7 @@
  * string_toupper - changes all lowercase letters of a string
  * to upper case.
  * @s: input string.
- * Return: ponter to dest.
+ * Return: the ponter to dest.
 */ 
 
 char *string_toupper(char *)
