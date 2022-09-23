@@ -2,7 +2,7 @@
 
 This folder contains functions on strings, arrays and pointers. I'll be wrinting functions on how to copy a string from one string to another, concatenete a string atc.
 
-Contents
+<h2> Contents </h2>
 
 Function that concateneates two strings
 Function that copies one string to another
