@@ -7,7 +7,6 @@
  * @s: input string.
  * Return: the ponter to dest.
 */ 
-
 char *string_toupper(char *s)
 {
 	int count = 0;
