@@ -4,10 +4,11 @@ This folder contains functions on strings, arrays and pointers. I'll be wrinting
 
 <h2> Contents </h2>
 
-Function that concateneates two strings
-Function that copies one string to another
-Functions that compares two strings
-Function that reverse the order of an array
-Function that changes characters from lowercase to uppercase
-Function that capitalize as string
-etc.
+<li> Function that concateneates two strings </li>
+<li>Function that copies one string to another</li>
+<li>Functions that compares two strings</li>
+<li>Function that reverse the order of an array</li>
+<li>Function that changes characters from lowercase to uppercase</li>
+<li>Function that capitalize as string</li>
+
+<li>etc.</li>
